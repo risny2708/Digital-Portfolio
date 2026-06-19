@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    background-color: #f4f4f4;
+}
+
+.company-name {
+    font-size: 36px;
+}
+
+header {
+    background-color: navy;
+    color: white;
+}
+
+nav {
+    background-color: lightblue;
+}
+
+footer {
+    background-color: navy;
+    color: white;
+}
